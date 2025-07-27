@@ -1,10 +1,10 @@
-# 🧠 AI Agent MVP (Microservices-Based)
+# AI Agent MVP (Microservices-Based)
 
 A Minimal Viable Product (MVP) of an AI Assistant built using Python microservices with FastAPI. It answers user queries using a knowledge base or fallback web search and stores chat history.
 
 ---
 
-## 📦 Microservices
+## Microservices
 
 | Service          | Port | Description                                 |
 |------------------|------|---------------------------------------------|
@@ -15,7 +15,7 @@ A Minimal Viable Product (MVP) of an AI Assistant built using Python microservic
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **FastAPI** for backend APIs  
 - **MongoDB** for chat history  
@@ -25,7 +25,7 @@ A Minimal Viable Product (MVP) of an AI Assistant built using Python microservic
 
 ---
 
-## 🧪 API Endpoints
+## API Endpoints
 
 ### 🔹 Chat Service (Port 8000)
 - `POST /chat`  
@@ -44,7 +44,7 @@ A Minimal Viable Product (MVP) of an AI Assistant built using Python microservic
 
 ---
 
-## 🧠 Sample Ingestion Data
+## Sample Ingestion Data
 
 For `POST /ingest`:
 
